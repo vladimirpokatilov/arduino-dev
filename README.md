@@ -1,5 +1,5 @@
 # arduino-dev
-##Some arduino projects for IoT.
+## Some arduino projects for IoT.
 
 1. Actuator System Controller for Arduino MEGA2560 && ESBE ARA639
 +Actuator support models: ESBE ARA639, ESBE ARA659
